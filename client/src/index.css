@@ -1,0 +1,68 @@
+.user-name,
+.logout {
+  margin: 5px 20px;
+}
+.user-name {
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+}
+.navbar {
+  box-shadow: 1px -6px 51px -14px rgba(74, 74, 74, 1);
+}
+.navbar-brand img {
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  margin: 0 20px;
+  box-shadow: 0px 4px 18px -6px rgba(74, 74, 74, 1);
+}
+.navbar-brand span {
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+.nav-item a {
+  margin: 5px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  color: grey;
+}
+.nav-item a:hover {
+  color: blue;
+}
+form {
+  width: 90%;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  margin: 50px auto;
+  border-radius: 10px;
+  padding: 5px 25px;
+  box-shadow: -1px 1px 30px -4px rgba(13, 110, 225, 0.45);
+}
+h3 {
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
+.forgot-password {
+  text-align: right;
+  margin: 5px auto;
+}
+.create-user {
+  display: inline-block;
+  background-color: blue;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 10px;
+  margin: 20px 40px;
+  border: none;
+  border-radius: 5px;
+  box-shadow: -1px 1px 30px -4px rgba(13, 110, 225, 0.45);
+}
+.create-user:hover {
+  color: white;
+}
